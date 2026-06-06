@@ -1,5 +1,8 @@
 # Hi, I'm Md Fanir Al Mamun 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=Aldrin-Fanir&color=brightgreen)
+
+
 🎓 Master's Student in Automotive Software Engineering at Technische Universität Chemnitz
 
 I have a background in Computer Science and Engineering from United International University. Previously, I completed an internship at the Center for Emerging Networks & Technologies Research (CENTeR) as a Network Engineer Intern.
