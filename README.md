@@ -38,17 +38,10 @@ Currently, I am exploring Artificial Intelligence and building practical skills 
 * PyTorch
 * OpenCV
 
-## Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/fanir/
-- GitHub: https://github.com/Aldrin-Fanir
-- Codeforces: https://codeforces.com/profile/Aldrin
-- Leetcode: https://leetcode.com/u/FanirAl/
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fanir/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Aldrin-Fanir)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fanir.tuc@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/faniraldrin)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-orange?style=flat-square)](https://codeforces.com/profile/Aldrin)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)]([https://leetcode.com/u/fanir/](https://leetcode.com/u/FanirAl/))
