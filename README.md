@@ -51,4 +51,4 @@ Currently, I am exploring Artificial Intelligence and building practical skills 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Aldrin-Fanir)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fanir.tuc@gmail.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-orange?style=flat-square)](https://codeforces.com/profile/Aldrin)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/fanir/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)]([https://leetcode.com/u/fanir/](https://leetcode.com/u/FanirAl/))
