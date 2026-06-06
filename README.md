@@ -52,3 +52,21 @@ Currently, I am exploring Artificial Intelligence and building practical skills 
 [![GitHub](https://img.shields.io/badge/GitHub-Aldrin--Fanir-black?style=for-the-badge&logo=github)](https://github.com/Aldrin-Fanir)
 
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:mdfaniralmamun@gmail.com)
+
+## 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/fanir/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Aldrin-Fanir">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:mdfaniralmamun@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-orange?style=for-the-badge)](https://codeforces.com/profile/Aldrin)
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle)](https://kaggle.com/yourusername)
