@@ -44,3 +44,11 @@ Currently, I am exploring Artificial Intelligence and building practical skills 
 - GitHub: https://github.com/Aldrin-Fanir
 - Codeforces: https://codeforces.com/profile/Aldrin
 - Leetcode: https://leetcode.com/u/FanirAl/
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fanir-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fanir/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Aldrin--Fanir-black?style=for-the-badge&logo=github)](https://github.com/Aldrin-Fanir)
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:mdfaniralmamun@gmail.com)
