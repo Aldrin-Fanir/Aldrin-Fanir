@@ -2,25 +2,41 @@
 
 🎓 Master's Student in Automotive Software Engineering at Technische Universität Chemnitz
 
-## About Me
+I have a background in Computer Science and Engineering from United International University. Previously, I completed an internship at the Center for Emerging Networks & Technologies Research (CENTeR) as a Network Engineer Intern.
 
-I am passionate about Artificial Intelligence and currently exploring:
+Currently, I am exploring Artificial Intelligence and building practical skills in Machine Learning, Deep Learning, Natural Language Processing (NLP), and Computer Vision. I enjoy solving real-world problems through software development and intelligent systems.
 
-- Machine Learning
-- Deep Learning
-- Natural Language Processing (NLP)
-- Computer Vision
+## Research Interests
 
-I enjoy solving problems, building projects, and continuously learning new technologies.
+* Machine Learning
+* Deep Learning
+* Natural Language Processing (NLP)
+* Computer Vision
+* Artificial Intelligence
+* Intelligent Systems
+* Software Engineering
 
-## Tech Stack
+## Technical Skills
 
-- Python
-- C++
-- PyTorch
-- OpenCV
-- Scikit-Learn
-- Git
+### Programming Languages
+
+* Python
+* C++
+
+### Other
+
+* Git
+* Linux
+* Computer Networks
+
+## Currently Learning
+
+* Text Preprocessing
+* Tokenization
+* TF-IDF
+* Sentiment Analysis
+* PyTorch
+* OpenCV
 
 ## Connect With Me
 
