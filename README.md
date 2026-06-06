@@ -6,7 +6,7 @@
 <br>
 Technische Universität Chemnitz
 
---
+---
 
 I have a background in Computer Science and Engineering from United International University. Previously, I completed an internship at the Center for Emerging Networks & Technologies Research (CENTeR) as a Network Engineer Intern.
 
