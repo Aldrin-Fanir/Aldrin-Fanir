@@ -51,4 +51,4 @@ Currently, I am exploring Artificial Intelligence and building practical skills 
 * PyTorch
 * OpenCV
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aldrin-Fanir&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aldrin-Fanir&show_icons=true&theme=default)
