@@ -50,3 +50,5 @@ Currently, I am exploring Artificial Intelligence and building practical skills 
 * Sentiment Analysis
 * PyTorch
 * OpenCV
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aldrin-Fanir&show_icons=true)
