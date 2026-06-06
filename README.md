@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Md Fanir Al Mamun 👋
 
-<!--
-**Aldrin-Fanir/Aldrin-Fanir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's Student in Automotive Software Engineering at Technische Universität Chemnitz
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about Artificial Intelligence and currently exploring:
+
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Computer Vision
+
+I enjoy solving problems, building projects, and continuously learning new technologies.
+
+## Tech Stack
+
+- Python
+- C++
+- PyTorch
+- OpenCV
+- Scikit-Learn
+- Git
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/fanir/
+- GitHub: https://github.com/Aldrin-Fanir
+- Codeforces: https://codeforces.com/profile/Aldrin
+- Leetcode: https://leetcode.com/u/FanirAl/
