@@ -52,11 +52,3 @@ Currently, I am exploring Artificial Intelligence and building practical skills 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mdfaniralmamun@gmail.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-orange?style=flat-square)](https://codeforces.com/profile/Aldrin)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/yourusername)
-
-<a href="mailto:mdfaniralmamun@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-orange?style=for-the-badge)](https://codeforces.com/profile/Aldrin)
-
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle)](https://kaggle.com/yourusername)
