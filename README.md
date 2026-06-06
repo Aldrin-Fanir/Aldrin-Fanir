@@ -1,13 +1,18 @@
 # Hi, I'm Md Fanir Al Mamun 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Aldrin-Fanir&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=Aldrin-Fanir&label=Profile%20Views&color=0e75b6&style=flat)
 
+🎓 **Master's Student in Automotive Software Engineering**
+<br>
+Technische Universität Chemnitz
 
-🎓 Master's Student in Automotive Software Engineering at Technische Universität Chemnitz
+---
 
 I have a background in Computer Science and Engineering from United International University. Previously, I completed an internship at the Center for Emerging Networks & Technologies Research (CENTeR) as a Network Engineer Intern.
 
 Currently, I am exploring Artificial Intelligence and building practical skills in Machine Learning, Deep Learning, Natural Language Processing (NLP), and Computer Vision. I enjoy solving real-world problems through software development and intelligent systems.
+
+## 📫 Connect With Me
 
 📫 Connect With Me
 
