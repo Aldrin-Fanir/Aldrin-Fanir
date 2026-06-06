@@ -45,23 +45,13 @@ Currently, I am exploring Artificial Intelligence and building practical skills 
 - Codeforces: https://codeforces.com/profile/Aldrin
 - Leetcode: https://leetcode.com/u/FanirAl/
 
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fanir-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fanir/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Aldrin--Fanir-black?style=for-the-badge&logo=github)](https://github.com/Aldrin-Fanir)
-
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:mdfaniralmamun@gmail.com)
-
 ## 🌐 Connect With Me
 
-<a href="https://www.linkedin.com/in/fanir/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Aldrin-Fanir">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fanir/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Aldrin-Fanir)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mdfaniralmamun@gmail.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-orange?style=flat-square)](https://codeforces.com/profile/Aldrin)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/yourusername)
 
 <a href="mailto:mdfaniralmamun@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
