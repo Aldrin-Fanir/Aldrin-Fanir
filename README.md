@@ -12,7 +12,7 @@ I have a background in Computer Science and Engineering from United Internationa
 
 Currently, I am exploring Artificial Intelligence and building practical skills in Machine Learning, Deep Learning, Natural Language Processing (NLP), and Computer Vision. I enjoy solving real-world problems through software development and intelligent systems.
 
-## 📫 Connect With Me
+📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fanir/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fanir.tuc@gmail.com)
