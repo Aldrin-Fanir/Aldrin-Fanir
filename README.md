@@ -26,6 +26,7 @@ Currently, I am exploring Artificial Intelligence and building practical skills 
 
 * Machine Learning
 * Deep Learning
+* Bioinformatics
 * Natural Language Processing (NLP)
 * Computer Vision
 * Artificial Intelligence
