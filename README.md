@@ -10,7 +10,7 @@ Technische Universität Chemnitz
 
 I have a background in Computer Science and Engineering from United International University. Previously, I completed an internship at the Center for Emerging Networks & Technologies Research (CENTeR) as a Network Engineer Intern.
 
-Currently, I am exploring Artificial Intelligence and building practical skills in Machine Learning, Deep Learning, Natural Language Processing (NLP), and Computer Vision. I enjoy solving real-world problems through software development and intelligent systems.
+Currently, I am exploring Artificial Intelligence and building practical skills in Machine Learning, Deep Learning, Bioinformatics, Natural Language Processing (NLP), and Computer Vision. I enjoy solving real-world problems through software development and intelligent systems.
 
 📫 Connect With Me
 
